@@ -1,9 +1,9 @@
 # cal_predict
 ## Table of Content
-* [Overview](https://github.com/ms070902/cal_predict/new/main?readme=1#overview)
-* [Technologies Used](https://github.com/ms070902/cal_predict/new/main?readme=1#technologies-used)
-* [Result](https://github.com/ms070902/cal_predict/new/main?readme=1#result)
-* [Author](https://github.com/ms070902/cal_predict/new/main?readme=1#author)
+* [Overview](https://github.com/ms070902/cal_predict/tree/main#overview)
+* [Technologies Used](https://github.com/ms070902/cal_predict/tree/main#technologies-used)
+* [Result](https://github.com/ms070902/cal_predict/tree/main#result)
+* [Author](https://github.com/ms070902/cal_predict/tree/main#author)
 ## Overview
 * cal_predict is a calorie burnt prediction ml model that predicts the calories burnt post workout by user based on factors like grnder, height, weight, age,
   duration of excercise, body temperature, and heart rate.
